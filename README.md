@@ -1,4 +1,4 @@
-# BDJOBS_SCRAPER-Selenium_BeautifulSoup
+# BDJOBS SCRAPER
 This scraper scrapes the BDJOBS.COM website for IT jobs. It crawls the jobs posted on the current day and stores it in a csv file.
 
 ## Techonology
